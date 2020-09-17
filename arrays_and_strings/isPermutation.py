@@ -13,7 +13,7 @@ def is_permutation(stringA, stringB):
     dicA[c] = stringA.count(c)
 
   for c in stringB:
-    dicB[c] = stringA.count(c)
+    dicB[c] = stringB.count(c)
 
   if dicA==dicB: 
     return True
