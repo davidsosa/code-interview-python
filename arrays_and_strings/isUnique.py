@@ -2,6 +2,7 @@
 
 # Author: David Sosa
 # Date: 15.09.2020
+# Title: isUnique.py
 # Description: Determines if a string has all unique characthers
 
 import unittest
